@@ -1,0 +1,10 @@
+{
+    "age": 31,
+    "hobbies": [
+        "reading",
+        "traveling"
+    ],
+    "is_student": false,
+    "mail": "mika1@gmail.com",
+    "name": "Alice"
+}
